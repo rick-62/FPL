@@ -1,0 +1,11 @@
+/.ipynb_checkpoints
+/phantomjs
+/pandas
+/DataStore/*
+/Research
+/__pycache__
+/Development
+*.exe
+*.log
+
+
